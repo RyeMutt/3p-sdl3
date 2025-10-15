@@ -10,9 +10,9 @@
       <key>license</key>
       <string>lgpl</string>
       <key>license_file</key>
-      <string>LICENSES/SDL2.txt</string>
+      <string>LICENSES/SDL3.txt</string>
       <key>name</key>
-      <string>SDL2</string>
+      <string>SDL3</string>
       <key>platforms</key>
       <map>
         <key>common</key>
@@ -38,8 +38,8 @@
           </map>
           <key>manifest</key>
           <array>
-            <string>LICENSES/SDL2.txt</string>
-            <string>include/SDL2/*</string>
+            <string>LICENSES/SDL3.txt</string>
+            <string>include/SDL3/*</string>
           </array>
           <key>name</key>
           <string>common</string>

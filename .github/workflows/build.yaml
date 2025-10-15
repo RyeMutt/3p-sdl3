@@ -23,7 +23,7 @@ jobs:
             libxext-dev libxrandr-dev libxfixes-dev libxcursor-dev libxss-dev libxi-dev libxkbcommon-dev \
             libwayland-dev libdecor-0-dev libdbus-1-dev libibus-1.0-dev fcitx-libs-dev \
             libudev-dev libunwind-dev libdirectfb-dev libasound2-dev libpulse-dev \
-            libpipewire-0.3-dev ninja-build
+            libpipewire-0.3-dev libgbm-dev ninja-build
 
       - name: Setup macOS Build Dependencies
         if: ${{ runner.os == 'macOS' }}
